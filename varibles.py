@@ -65,3 +65,4 @@ if "bi" in user_input :
 i = int(input("patern size: "))
 for num in range(i):
     print("✅"*(num+1))
+#visit w3 school wiki 
